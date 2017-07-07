@@ -8,7 +8,7 @@ install.packages("XLConnect")
 library(XLConnect)
 
 #Set directory
-setwd("C:/Users/DELL/Downloads/UMCP/PiAnalytics/Raw Data/Raw Data/")
+setwd("<input working directory here>")
 
 #Read all files in the directory and merge them
 file_list <- list.files()
