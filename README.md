@@ -1,5 +1,5 @@
-# Funding-Circle-Data-Transformation-and-Cleaning
+# Funding-Circle-Data-Transformation-and-Cleaning-(Build Ensemble methods)
 
 
 Merge monthly status for a loan ID, data transformation and cleaning
-To be used for building prediction models
+Used for building ensemble method prediction models - Bagging, Random Forest, Boosting
