@@ -2,4 +2,5 @@
 
 
 Merge monthly status for a loan ID, data transformation and cleaning
-Used for building ensemble method prediction models - Bagging, Random Forest, Boosting
+
+Build ensemble prediction models - Bagging, Random Forest, Boosting
