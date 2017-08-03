@@ -1,6 +1,6 @@
-# Funding-Circle-Data-Transformation-and-Cleaning-(Build Ensemble methods)
+# Business-Lending-Data-Variable-Transformation-Cleaning-and-Ensemble methods
 
 
-Merge monthly status for a loan ID, data transformation and cleaning
+Merge monthly status for a loan ID, data variable transformation and cleaning
 
-Build ensemble prediction models - Bagging, Random Forest, Boosting
+Build ensemble methods for predictive modeling - Bagging, Random Forest, Boosting
